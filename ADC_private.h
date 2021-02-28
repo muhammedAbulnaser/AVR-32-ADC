@@ -2,7 +2,7 @@
  * ADC_private.h
  *
  *  Created on: Sep 7, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef ADC_PRIVATE_H_
