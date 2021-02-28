@@ -2,7 +2,7 @@
  * ADC_config.h
  *
  *  Created on: Sep 7, 2018
- *   Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef ADC_CONFIG_H_
